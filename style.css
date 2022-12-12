@@ -19,6 +19,9 @@
     margin-left: 30px;
     margin-right: 30px;
 }
+.active {
+    border-bottom: solid white;
+}
 .nav h2 a{
     border: dashed rgb(249, 249, 249);
     padding: 15px;
